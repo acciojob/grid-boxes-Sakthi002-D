@@ -14,7 +14,7 @@
 /* Layout */
 
 .b1 {
-  grid-column: span 4;
+  grid-column: span 1 / auto;
 }
 
 .b2 {
