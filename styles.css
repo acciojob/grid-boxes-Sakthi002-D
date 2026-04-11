@@ -18,37 +18,37 @@
 }
 
 .b2 {
-  grid-row: span 4;
+  grid-row: span 4 / auto;
 }
 
 .b3 {
-  grid-column: span 1;
+  grid-column: span 1 / auto;
 }
 
 .b4 {
-  grid-column: span 2;
+  grid-column: span 2 / auto;
 }
 
 .b5 {
-  grid-column: span 2;
+  grid-column: span 2 / auto;
 }
 
 .b6 {
-  grid-column: span 1;
+  grid-column: span 1 / auto;
 }
 
 .b7 {
-  grid-column: span 1;
+  grid-column: span 1 / auto;
 }
 
 .b8 {
-  grid-column: span 1;
+  grid-column: span 1 / auto;
 }
 
 .b9 {
-  grid-column: span 1;
+  grid-column: span 1 / auto;
 }
 
 .b10 {
-  grid-column: span 3;
+  grid-column: span 3 / auto;
 }
